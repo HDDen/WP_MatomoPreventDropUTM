@@ -1,0 +1,6 @@
+{
+  "name": "W9999_HDDenMatomoPreventDropUTM",
+  "description": "Prevents dropping UTM from entering url",
+  "version": "0.1.0",
+  "require": {}
+}
